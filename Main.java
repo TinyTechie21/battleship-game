@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Main class for a GameSystem application.
  *
- * @author - Pâmela Cuna 63560
+ * @author - Pâmela Cuna 
  */
 
 public class Main {
